@@ -8,6 +8,8 @@ The binary for this fix has been compiled into UnrealEditor-Renderer.dll
 
 Click on the green "Code" button to get a zip which you unload into root DRIVE:\Program Files\Epic Games\UE_5.3
 
+check for  DRIVE:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor-Renderer.dll to have an updated date/time
+
 This patch is currently UNTESTED, one user says it works! please test it!. Report your findings in the thread
 
 In the path Engine\Source\Runtime\Renderer\Private\PathTracing.cpp
